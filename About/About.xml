@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Brighter Blood (Continued)</name>
-  	<packageId>Mlie.BrighterBlood</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/BrighterBlood</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />	
+  <packageId>Mlie.BrighterBlood</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/BrighterBlood</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
   <description>Update of LimitedS mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1584224458
 
@@ -31,4 +32,4 @@ Preview photos have been Down scaled a little too much due to steam's stupid 2mb
 Looks a lot better and clear in-game.
 
 Recommended to put this mod last on your load order to prevent any issues.</description>
-</ModMetaData> 
+</ModMetaData>
