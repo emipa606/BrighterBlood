@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>202a8e1b-9a43-4240-976e-569dd812c973</ID>
   <ModName>Brighter Blood (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
