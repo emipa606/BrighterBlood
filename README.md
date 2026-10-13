@@ -39,4 +39,4 @@ Recommended to put this mod last on your load order to prevent any issues.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/BrighterBlood?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2013195859) | tags: colorful
+[![Image](https://img.shields.io/github/v/release/emipa606/BrighterBlood?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2013195859) | colorful
